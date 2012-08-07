@@ -1,3 +1,8 @@
+/**
+ * OpenMinds JavaScript Library v1
+ * Copyright 2012, Root-1 Inc.
+ * Released under the MIT license.
+ */
 (function() {
 
 window.om = window.om || {};
