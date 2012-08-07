@@ -41,6 +41,7 @@ The library exposes two methods: `om.logIn` and `om.logOut`.
 ```
 
 Once you have an OpenMinds Access Token in the callback, you can start making API calls. (The API supports cross-origin requests from browsers).
+For more information read [Using the API](http://openminds.io/developers/docs/using_the_api) or browse the [API Reference](http://openminds.io/developers/docs/api_reference) for code examples.
 
 ### om.logOut
 A call to `om.logOut` will clear out the access token from the browser and log the user out of OpenMinds.
